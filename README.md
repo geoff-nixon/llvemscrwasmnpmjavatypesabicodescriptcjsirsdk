@@ -1,5 +1,5 @@
 # llvemscrwasmnpmjavatypesabicodescriptcjsirsdk
-**llv**__emscr__**wasm**__npm__**java**__type__**script**__abi__**codec**__js__**ir**sdk is a universal ahead-of-just-in-time transdiscomping code suite and dis-co-integrated development kit targeting:
+**llv**-__emscr__-**wasm**-__npm__-**java**-__type__-**script**-__abi__-**code**-__c__**js**__-ir-__-sdk is a universal ahead-of-just-in-time transdiscomping code suite and dis-co-integrated development kit targeting:
 
 - Ada
 - The Java 6 JVM
